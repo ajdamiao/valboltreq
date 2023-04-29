@@ -2,107 +2,128 @@
     "agents": [
         {
             "name": "fade",
-            "uid": "dade69b4-4f5a-8528-247b-219e5a1facd6"
+            "uid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096760432687059015/fade.png"
         },
 
         {
             "name": "breach",
-            "uid": "5f8d3a7f-467b-97f3-062c-13acf203c006"
+            "uid": "5f8d3a7f-467b-97f3-062c-13acf203c006",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096760785599995914/breach.png" 
         },
 
         {
             "name": "raze",
-            "uid": "f94c3b30-42be-e959-889c-5aa313dba261"
+            "uid": "f94c3b30-42be-e959-889c-5aa313dba261",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096760855728754718/raze.png"
         },
 
         {
             "name": "chamber",
-            "uid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7"
+            "uid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096760911953408040/chamber.png"
         },
 
         {
             "name": "kayo",
-            "uid": "601dbbe7-43ce-be57-2a40-4abd24953621"
+            "uid": "601dbbe7-43ce-be57-2a40-4abd24953621",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096760967397912736/kayo.png"
         },
 
         {
             "name": "skye",
-            "uid": "6f2a04ca-43e0-be17-7f36-b3908627744d"
+            "uid": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761030136315945/skye.png"
         },
 
         {
             "name": "cypher",
-            "uid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b"
+            "uid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761131953045514/cypher.png"
         },
 
         {
             "name": "sova",
-            "uid": "ded3520f-4264-bfed-162d-b080e2abccf9"
+            "uid": "ded3520f-4264-bfed-162d-b080e2abccf9",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761261976461413/sova.png"
         },
 
         {
             "name": "killjoy",
-            "uid": "1e58de9c-4950-5125-93e9-a0aee9f98746"
+            "uid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761315399303289/killjoy.png"
         },
 
         {
             "name": "harbor",
-            "uid": "95b78ed7-4637-86d9-7e41-71ba8c293152"
+            "uid": "95b78ed7-4637-86d9-7e41-71ba8c293152",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761391270084628/harbor.png"
         },
 
         {
             "name": "viper",
-            "uid": "707eab51-4836-f488-046a-cda6bf494859"
+            "uid": "707eab51-4836-f488-046a-cda6bf494859",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761439278088192/viper.png"
         },
 
         {
             "name": "phoenix",
-            "uid": "eb93336a-449b-9c1b-0a54-a891f7921d699"
+            "uid": "eb93336a-449b-9c1b-0a54-a891f7921d699",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761506311446650/phoenix.png"
         },
 
         {
             "name": "astra",
-            "uid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf"
+            "uid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761559751077908/astra.png"
         },
 
         {
             "name": "brimm",
-            "uid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417"
+            "uid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761618513281144/brimm.png"
         },
 
         {
             "name": "neon",
-            "uid": "bb2a4828-46eb-8cd1-e765-15848195d751"
+            "uid": "bb2a4828-46eb-8cd1-e765-15848195d751",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761689195675720/neon.png"
         },
 
         {
             "name": "yoru",
-            "uid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89"
+            "uid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761760482066443/yoru.png"
         },
 
         {
             "name": "sage",
-            "uid": "569fdd95-4d10-43ab-ca70-79becc718b46"
+            "uid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761818120200346/sage.png"
         },
 
         {
             "name": "reyna",
-            "uid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc"
+            "uid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761872180592711/reyna.png"
         },
 
         {
             "name": "omem",
-            "uid": "8e253930-4c05-31dd-1b6c-968525494517c"
+            "uid": "8e253930-4c05-31dd-1b6c-968525494517c",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761935661371422/omem.png"
         },
 
         {
             "name": "jett",
-            "uid": "add6443a-41bd-e414-f6ad-e58d267f4e95"
+            "uid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096761999779704963/jett.png"
         },
 
         {
             "name": "geeko",
-            "uid": "e370fa57-4757-3604-3648-499e1f642d3f"
+            "uid": "e370fa57-4757-3604-3648-499e1f642d3f",
+            "image": "https://cdn.discordapp.com/attachments/1000964245309108225/1096762048848871455/geeko.png"
         }
     ]
 }
